@@ -1,0 +1,6 @@
+ Interface Nedir?
+Interface (arayüz), sınıfların uygulaması gereken bir sözleşme (contract) gibidir. İçinde yalnızca metot imzaları (tanımları) bulunur, yani gövdesi olmayan metotlar içerir.
+
+interface anahtar kelimesi ile tanımlanır.
+Tüm metotlar public ve abstract olarak kabul edilir.
+Java 8 ile birlikte interface'lerde default ve static metotlar da tanımlanabilir.

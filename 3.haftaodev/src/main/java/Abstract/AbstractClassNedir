@@ -1,0 +1,7 @@
+Abstract Class Nedir?
+Abstract class (soyut sınıf), ortak özelliklere sahip sınıflar için bir şablon oluşturan sınıftır. Soyut sınıflar, normal sınıflar gibi özellikler (fields) ve metotlar içerebilir, ancak en büyük farkları soyut (abstract) metotlar içerebilmeleridir.
+
+Soyut metotlar yalnızca tanımlanır, ancak içeriği (gövdesi) bulunmaz. Alt sınıflar bu metotları override etmek zorundadır.
+abstract anahtar kelimesi ile tanımlanır.
+Soyut sınıflardan nesne oluşturulamaz, ancak türetilen alt sınıflar nesne oluşturabilir.
+
