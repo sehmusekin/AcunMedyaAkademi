@@ -1,0 +1,15 @@
+Java'da kullanılan temel veri tiplerini ve boyutlarını listeleyin
+
+Javada veri tipleri 3'e ayrılır.
+1. Tamsayı Tipleri
+byte: 1 byte (8 bit), -128 ile 127 arasında değer alabilir.
+short: 2 byte (16 bit), -32,768 ile 32,767 arasında değer alabilir.
+int: 4 byte (32 bit), -2^31 ile 2^31-1 arasında değer alabilir.
+long: 8 byte (64 bit), -2^63 ile 2^63-1 arasında değer alabilir.
+2. Ondalıklı Tipler
+float: 4 byte (32 bit), tek hassasiyetli kayan nokta sayıları için kullanılır.
+double: 8 byte (64 bit), çift hassasiyetli kayan nokta sayıları için kullanılır.
+3. Karaker ve Mantıksal Tipler
+char: 2 byte (16 bit), Unicode karakterlerini temsil eder.
+boolean: 1 bit, doğru (true) veya yanlış (false) değerini alır.
+

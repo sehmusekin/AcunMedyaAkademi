@@ -1,0 +1,40 @@
+Java’nın JDK, JRE ve JVM Bileşenleri
+Java ekosistemi üç ana bileşenden oluşur: JDK (Java Development Kit), JRE (Java Runtime Environment) ve JVM (Java Virtual Machine). Bunlar, Java uygulamalarının geliştirilmesi, çalıştırılması ve yönetilmesi için gereklidir.
+
+🔹 1. JDK (Java Development Kit) - Java Geliştirme Kiti
+JDK, Java uygulamalarını geliştirmek ve çalıştırmak için gereken tüm araçları içerir. İçerisinde JRE ve geliştirme araçları (javac, jar, javadoc vb.) bulunur.
+
+İçeriği:
+✅ JRE (Java Runtime Environment)
+✅ Java Derleyicisi (javac)
+✅ Debug ve izleme araçları (jdb, jconsole)
+✅ Kütüphaneler ve API’ler
+
+Kullanımı: Java kodlarını yazmak, derlemek ve çalıştırmak için kullanılır.
+
+🔹 2. JRE (Java Runtime Environment) - Java Çalışma Ortamı
+JRE, Java uygulamalarını çalıştırmak için gerekli bileşenleri içerir. JDK içinde yer alır ama ayrı olarak da bulunabilir.
+
+İçeriği:
+✅ JVM (Java Sanal Makinesi)
+✅ Java Kütüphaneleri (rt.jar gibi)
+✅ Çalışma zamanı bileşenleri
+
+Kullanımı: Java programlarını çalıştırmak isteyen kullanıcılar için gereklidir (örneğin, sadece bir Java uygulaması çalıştırmak isteyen son kullanıcılar).
+
+🔹 3. JVM (Java Virtual Machine) - Java Sanal Makinesi
+JVM, Java kodlarını çalıştıran sanal makinedir. Java kodlarını bytecode'a çevirir ve işletim sistemine uygun şekilde çalıştırır.
+
+Görevleri:
+✅ Java bytecode’unu yorumlamak ve çalıştırmak
+✅ Bellek yönetimi ve çöp toplama (Garbage Collection)
+✅ Platform bağımsızlığı sağlamak
+
+Kullanımı: JVM sayesinde Java, "Bir kez yaz, her yerde çalıştır" prensibine uygun olarak farklı işletim sistemlerinde çalışabilir.
+
+Özetle:
+Bileşen	İçeriği	Amacı
+JDK	JRE + Geliştirme araçları (javac, jar vb.)	Java uygulamaları geliştirmek için kullanılır.
+JRE	JVM + Java Kütüphaneleri	Java uygulamalarını çalıştırmak için kullanılır.
+JVM	Bytecode Çalıştırıcı	Java kodlarını platformdan bağımsız çalıştırır.
+Bu üç bileşen bir arada, Java’nın güçlü ve esnek bir dil olmasını sağlayan temel taşlardır. 🚀

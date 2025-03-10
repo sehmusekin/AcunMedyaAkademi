@@ -1,0 +1,5 @@
+2️-)Aşağıdaki kodun çıktısını tahmin edin ve açıklayın:
+ int a = 10; Burada a değişkeni int olarak tanımlanmış ve değeri 10 olarak verilmiş.
+  double b = 3.5; Burada b değişkeni double olarak tanımlanmış ve değeri 3.5 olarak verilmiş.
+  System.out.println(a + b); burda iki değişkeni toplama işlemi yapılmıştır.
+  cikti 13.5 olaçaktır.

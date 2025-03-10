@@ -1,0 +1,17 @@
+Java Nedir? Nerelerde Kullanılır?
+Java, 1995 yılında Sun Microsystems tarafından geliştirilen ve
+günümüzde Oracle tarafından sürdürülen nesne yönelimli,
+ platform bağımsız bir programlama dilidir. "Bir kez yaz, her yerde çalıştır" (Write Once, Run Anywhere - WORA)
+ prensibiyle çalışır ve JVM (Java Virtual Machine) sayesinde farklı işletim sistemlerinde sorunsuz çalışabilir.
+
+Java'nın Kullanım Alanları:
+✅ Web Geliştirme → Spring Boot, Java EE ile dinamik web uygulamaları
+✅ Mobil Uygulama Geliştirme → Android uygulamaları (Kotlin ile birlikte)
+✅ Masaüstü Uygulamaları → Swing, JavaFX ile GUI tabanlı programlar
+✅ Kurumsal Yazılımlar → Bankacılık, e-ticaret ve ERP sistemleri
+✅ Bulut Bilişim → AWS, Google Cloud gibi platformlarla entegrasyon
+✅ Büyük Veri ve Yapay Zeka → Apache Hadoop, Spark gibi veri analiz araçları
+✅ Oyun Geliştirme → LibGDX, jMonkeyEngine ile oyun motorları
+✅ Gömülü Sistemler → IoT ve akıllı cihaz çözümleri
+
+Java, geniş ekosistemi, güçlü güvenlik yapısı ve yüksek performansı ile dünyanın en popüler yazılım dillerinden biri olmaya devam etmektedir. 🚀
