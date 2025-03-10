@@ -1,0 +1,22 @@
+Koşullu ifadeler (if-else), bir şartın doğru olup olmadığını kontrol etmek için kullanılır.
+Yani, bir duruma göre farklı kodlar çalıştırmamıza yardımcı olur.
+ Örneğin, bir koşul sağlanıyorsa bir şey yap, sağlanmıyorsa başka bir şey yap şeklinde çalışır.
+
+Gerçek hayattan bir örnek verelim:
+
+Örneğin
+dışarıda yağmur yağıyor mu diye bakıyorsun.
+ Eğer yağmur yağıyorsa, şemsiye alırsın, yağmıyorsa almazsın.
+ İşte bu durumda if-else kullanıyoruz.
+
+
+
+
+boolean yagmurYagliMi = true;
+
+if (yagmurYagliMi) {
+    System.out.println("Şemsiye al!");
+} else {
+    System.out.println("Şemsiye alma.");
+}
+
