@@ -1,0 +1,7 @@
+
+
+    //1-) Dizi (Array) Nedir? Java’da Nasıl Tanımlanır?
+    //Dizi (Array), aynı veri tipindeki birden fazla öğeyi tek bir değişken içinde saklamaya yarayan veri yapısıdır.
+    // Java'da diziler sabit boyutludur, yani oluşturulduktan sonra eleman sayısı değiştirilemez.
+
+    // öreneğin: int[] sayilar = {1,2,3,4,5};
