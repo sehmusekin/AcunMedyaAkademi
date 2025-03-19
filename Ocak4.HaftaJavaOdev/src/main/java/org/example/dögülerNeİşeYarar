@@ -1,0 +1,10 @@
+Döngüler (for, while) Ne İşe Yarar? Kullanım Alanları
+Döngüler, belirli bir koşul sağlandığı sürece kod bloklarının tekrar tekrar çalışmasını sağlar. for ve while döngüleri en yaygın kullanılan döngü yapılarıdır.
+
+for döngüsü: Genellikle belirli bir sayıda tekrar edilmesi gereken işlemler için kullanılır. Örneğin, bir dizideki elemanları sırasıyla işlemek.
+while döngüsü: Belirli bir koşul sağlandığı sürece çalışır. Koşul false olduğunda döngü sona erer. Genellikle koşula bağlı olarak bilinmeyen sayıda tekrar gerektiren durumlarda kullanılır (örneğin, kullanıcı doğru şifre girene kadar istemek).
+Kullanım alanları:
+Dizilerdeki verileri işleme
+Belirli bir sayı aralığında işlem yapma
+Kullanıcıdan veri alıp belirli bir koşul sağlanana kadar devam ettirme
+Matematiksel hesaplamalar ve algoritmalar (faktöriyel, Fibonacci, asal sayılar vb.)
